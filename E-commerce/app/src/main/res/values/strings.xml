@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">E-commerce</string>
+    <string name="userNameHint">Username</string>
+    <string name="userPasswordHint">Password</string>
+    <string name="jobTitleHint">Job title</string>
+    <string name="genderHint">Gender</string>
+    <string name="addressHint">Address</string>
+    <string name="mailHint">Email-Address</string>
+    <string name="logout"> <u>logout</u></string>
+    <string name="forget_pass"> <u>forget password..</u></string>
+    <string name="title_activity_gps">Map</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
